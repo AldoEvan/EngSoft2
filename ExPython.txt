@@ -66,3 +66,11 @@ print(f'A velocidade em m/s é: {M}')
 Inv = float(input('Digite a velocidade em m/s:'))
 R = float(Inv*3.6)
 print(f'O resultado em m/s é: {R}')
+
+# Exercicio 11 adicionado por lobato10
+a = float(input('Digite o valor de um angulo: '))
+rad = float (a*3.14/180)
+print('O valor em radioano é: {rad}')
+Rad = float(input('Digite o valor de um angulo em radiano: '))
+ang = float(Rad*180/3.14)
+print('O valor do angulo é: {ang}')
