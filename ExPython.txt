@@ -59,10 +59,4 @@ K = float(input(f'digite a temperatura em Kelvin:'))
 Ce = float(K - 273.15)
 print(f'O valor em celcius é:{Ce}')
 
-# Exercicio 10
-K = float(input('Digite a velocidade em Km/h: '))
-M = float(K/3.6)
-print(f'A velocidade em m/s é: {M}')
-Inv = float(input('Digite a velocidade em m/s:'))
-R = float(Inv*3.6)
-print(f'O resultado em m/s é: {R}')
+
